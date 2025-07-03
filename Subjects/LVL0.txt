@@ -1,0 +1,14 @@
+LVL0: ft_putchar
+
+EN:
+Write a function that displays the character passed as parameter.
+
+The function should be prototyped as follows:
+
+FR:
+Ecris une fonction qui imprime un character passe en parametre.
+
+La fonction devrait etre prototype comme suit:
+
+
+void ft_putchar(char c);
